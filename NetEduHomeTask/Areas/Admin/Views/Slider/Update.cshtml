@@ -1,0 +1,33 @@
+﻿@model Slider
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 grid-margin stretch-card">
+           <div class="card">
+              <div class="card-body">
+                 <h4 class="card-title">Create - Slider</h4>
+                 <form enctype="multipart/form-data" method="post" class="forms-sample">
+                    <div class="form-group">
+                      <label asp-for="Title">Title</label>
+                      <input asp-for="Title" class="form-control" placeholder="Title">
+                    </div>
+                    <div class="form-group">
+                      <label asp-for="Body">Body</label>
+                      <input asp-for="Body" class="form-control" placeholder="Body">
+                    </div>
+                    <div class="form-group">
+                      <label asp-for="ImageFile">Image</label>
+                      <input accept="Image/*" asp-for="ImageFile" class="form-control" placeholder="Image">
+                    </div>
+                    <div class="form-group">
+                      <input asp-for="ImageId" type="hidden" class="form-control" placeholder="Image">
+                    </div>
+                    <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                    <button asp-controller="slider" asp-action="index" class="btn btn-light">Cancel</button>
+                 </form>
+              </div>
+           </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,12 @@
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Utilities\bin\Debug\net5.0\Utilities.deps.json
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Utilities\bin\Debug\net5.0\Utilities.dll
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Utilities\bin\Debug\net5.0\Utilities.pdb
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Utilities\obj\Debug\net5.0\Utilities.csproj.AssemblyReference.cache
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Utilities\obj\Debug\net5.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfo.cs
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Utilities\obj\Debug\net5.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Utilities\obj\Debug\net5.0\Utilities.dll
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Utilities\obj\Debug\net5.0\refint\Utilities.dll
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Utilities\obj\Debug\net5.0\Utilities.pdb
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Utilities\obj\Debug\net5.0\ref\Utilities.dll

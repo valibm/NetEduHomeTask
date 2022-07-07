@@ -1,0 +1,55 @@
+﻿@model Slider
+           
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 grid-margin stretch-card">
+              <div class="card">
+                <div class="card-body">
+                  <h4 class="card-title">Products</h4>
+                  <div class="d-flex justify-content-between my-3">
+                      <a asp-area="admin" asp-controller="dashboard" asp-action="index" class="btn btn-secondary">Go Back</a>
+                  </div>
+                  <div class="table-responsive">
+                    <table class="table table-striped">
+                      <thead>
+                        <tr>
+                          <th>
+                            Image
+                          </th>
+                          <th>
+                            Title
+                          </th>
+                          <th>
+                            Body
+                          </th>
+                          <th>
+                            Settings
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                         <tr>
+                          <td class="py-1">
+                            <img src="~/assets/uploads/images/@Model.Image.Name" alt="image"/>
+                          </td>
+                          <td>
+                            @Model.Title
+                          </td>
+                          <td>
+                            $ @Model.Body
+                          </td>
+                          <td>
+                            <a asp-area="admin" asp-controller="slider" asp-action="update"  asp-route-id="@Model.Id" class="btn btn-warning">Update</a>
+                            <a asp-area="admin" asp-controller="slider" asp-action="delete" asp-route-id="@Model.Id" class="btn btn-danger">Delete</a>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+    </div>
+</div>
+

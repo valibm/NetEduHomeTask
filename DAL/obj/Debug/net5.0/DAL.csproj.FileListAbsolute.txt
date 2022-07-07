@@ -1,0 +1,15 @@
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\DAL\obj\Debug\net5.0\refint\DAL.dll
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\DAL\obj\Debug\net5.0\ref\DAL.dll

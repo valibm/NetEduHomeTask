@@ -1,0 +1,17 @@
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Business\bin\Debug\net5.0\Business.dll
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Business\obj\Debug\net5.0\Business.dll
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Business\obj\Debug\net5.0\refint\Business.dll
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Business\obj\Debug\net5.0\Business.pdb
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Business\bin\Debug\net5.0\DAL.dll
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Business\bin\Debug\net5.0\DAL.pdb
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Business\bin\Debug\net5.0\Exceptions.dll
+C:\Users\Help\Desktop\VeliCode\NetEduHomeTask\Business\bin\Debug\net5.0\Exceptions.pdb
